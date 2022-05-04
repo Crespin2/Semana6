@@ -17,6 +17,7 @@
   Telefono:(503) 2222-1111 ° Fax: (503) 2222-1111
 </p>
   <br>
+  <!--Los datos de enviaran a Datos.php para mostrarlos en una tabla-->
     <form class="row g-2 " name="frm" action="Datos.php" method="post">
   <div class="col-md-6 ">
     <!--CLIENTE-->
