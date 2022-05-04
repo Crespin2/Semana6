@@ -1,6 +1,7 @@
 <?php
 
     if(isset($_POST['submit'])){
+        //variables de php
         $cliente=$_POST['cliente'];
         $fecha=$_POST['fecha'];
         $direccion=$_POST['direc'];
@@ -40,7 +41,7 @@
 </head>
 <body>
     <?php
-    
+    // tambien se puede utlizar print en vez de echo
     echo '
 
     <div class="container">
